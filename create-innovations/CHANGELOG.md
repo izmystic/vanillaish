@@ -1,5 +1,29 @@
 # Changelog
 
+## [1.1.5](https://github.com/izmystic/create-innovations/compare/create-innovations-v1.1.4...create-innovations-v1.1.5) (2024-06-11)
+
+
+### ☀ Modpack Changes
+
+* **create-innovations:** add Concurrent Chunk Management Engine (Fabric) ([c11cbc3](https://github.com/izmystic/create-innovations/commit/c11cbc30d46ebf6d94bb9a322b708d4ab4f7b26c))
+* **create-innovations:** add FerriteCore ([e313bbd](https://github.com/izmystic/create-innovations/commit/e313bbd84eb7fd68fda61bb8a3ccafd881550e11))
+* **create-innovations:** add Noisium ([2d667bd](https://github.com/izmystic/create-innovations/commit/2d667bde62cad41cda64b965ee8b486ef05cd14c))
+* **create-innovations:** add ServerCore ([6cffd7d](https://github.com/izmystic/create-innovations/commit/6cffd7d322444eb98d0aa358d5d68b68c1468a6a))
+* **create-innovations:** add ThreadTweak ([280017b](https://github.com/izmystic/create-innovations/commit/280017b6007eebf7c63ad89ff814154b66611ab2))
+* **create-innovations:** add Very Many Players (Fabric) ([55b14fc](https://github.com/izmystic/create-innovations/commit/55b14fc5b249d646835ae7f7364323f9941f794c))
+* **create-innovations:** remove Fast Better Grass ([56d6980](https://github.com/izmystic/create-innovations/commit/56d6980276c735ee8d23ec08217bd7b1b4d18943))
+
+
+### ⚘ Modpack Updates
+
+* **create-innovations:** update BSL Shaders ([62a3943](https://github.com/izmystic/create-innovations/commit/62a394377ab4c869f66052156d673e015dae70e6))
+* **create-innovations:** update Complementary Shaders - Reimagined ([15695a7](https://github.com/izmystic/create-innovations/commit/15695a7e239e6b9d106221ee92172eeea28ef6a5))
+* **create-innovations:** update Complementary Shaders - Unbound ([8c1e3a4](https://github.com/izmystic/create-innovations/commit/8c1e3a4d9fc8fc998f417d73f35990de426453f1))
+* **create-innovations:** update Create: Garnished ([ef3825c](https://github.com/izmystic/create-innovations/commit/ef3825c2486878493b1c12f2899615ee38f0367c))
+* **create-innovations:** update Create: Train Perspective ([ddd123f](https://github.com/izmystic/create-innovations/commit/ddd123f4798398dad9344320b360dad928bc196d))
+* **create-innovations:** update Indium ([d6d28c6](https://github.com/izmystic/create-innovations/commit/d6d28c629059c3c06acd8a8edd532a42997a0ae3))
+* **create-innovations:** update More Armor Trims ([01d12ae](https://github.com/izmystic/create-innovations/commit/01d12ae961af7a1f3aed8eabcc432d948fd54b94))
+
 ## [1.1.4](https://github.com/izmystic/create-innovations/compare/create-innovations-v1.1.3...create-innovations-v1.1.4) (2024-06-06)
 
 
